@@ -1,0 +1,4 @@
+# Modul konstanta
+PI = 3.14159
+GRAVITY = 9.8
+MAX_RETRY = 3
